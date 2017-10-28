@@ -2,7 +2,7 @@
 
 * [Minority Report: Predicting Crime Rates for Neighborhoods Using Local Infrastructure and Socio-economic Indicators](https://github.com/ajinkyai/resume/raw/master/project-reports/minorityreport.pdf)
 * [Passing Intermediate Feature Representation Between Cascade Stages](https://github.com/ajinkyai/resume/raw/master/project-reports/summercascades.pdf)
-* [Question Answering using Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/summercascades.pdf)
+* [Question Answering using Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/slash-question-answering.pdf)
 
 <!-- ## Welcome to GitHub Pages
 
