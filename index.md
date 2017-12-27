@@ -9,7 +9,7 @@
 
 ## posters
 
-* [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/585poster.pdf)
+* [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/posters/585poster.pdf)
 
 <!-- ## Welcome to GitHub Pages
 
