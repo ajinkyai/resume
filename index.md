@@ -1,8 +1,15 @@
 ## project reports
 
-* [Minority Report: Predicting Crime Rates for Neighborhoods Using Local Infrastructure and Socio-economic Indicators](https://github.com/ajinkyai/resume/raw/master/project-reports/minorityreport.pdf)
+* [Sophisticated Loss Functions for Efficient Prediction in CNNs](https://github.com/ajinkyai/resume/raw/master/project-reports/exploring-sophisticated-loss.pdf)
+* [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/nlp-qa-report.pdf)
 * [Passing Intermediate Feature Representation Between Cascade Stages](https://github.com/ajinkyai/resume/raw/master/project-reports/summercascades.pdf)
-* [Question Answering using Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/slash-question-answering.pdf)
+* [Minority Report: Predicting Crime Rates for Neighborhoods Using Local Infrastructure and Socio-economic Indicators](https://github.com/ajinkyai/resume/raw/master/project-reports/minorityreport.pdf)
+
+
+
+## posters
+
+* [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/585poster.pdf)
 
 <!-- ## Welcome to GitHub Pages
 
