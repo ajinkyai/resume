@@ -1,5 +1,6 @@
 ## project reports
 
+* [Robust loss with Deep Image Prior](https://github.com/ajinkyai/resume/raw/master/project-reports/super-resolution-landscape.pdf)
 * [Sophisticated Loss Functions for Efficient Prediction in CNNs](https://github.com/ajinkyai/resume/raw/master/project-reports/exploring-sophisticated-loss.pdf)
 * [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/project-reports/nlp-qa-report.pdf)
 * [Passing Intermediate Feature Representation Between Cascade Stages](https://github.com/ajinkyai/resume/raw/master/project-reports/summercascades.pdf)
@@ -9,6 +10,7 @@
 
 ## posters
 
+* [Robust loss with Deep Image Prior](https://github.com/ajinkyai/resume/raw/master/posters/682poster.pdf)
 * [Question Answering using End-to-End Memory networks](https://github.com/ajinkyai/resume/raw/master/posters/585poster.pdf)
 
 <!-- ## Welcome to GitHub Pages
